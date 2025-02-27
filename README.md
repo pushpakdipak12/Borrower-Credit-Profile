@@ -46,7 +46,7 @@ Offer debt management services for borrowers with higher DTI ratios.
 
 Promote lower DTI thresholds to boost financial stability.
 
-### **📊 4. Inquiries in the Last 6 Months
+### **📊 4. Inquiries in the Last 6 Months**
 
 Metric: 109K
 
